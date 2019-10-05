@@ -23,7 +23,7 @@ This will allow easier interface with the software and better interaction betwee
 ```bash
 a   b   c   d
 -------------------------
-0   0	0	0
+0   0   0   0
 1	0	0	1
 0	1	0	1
 1	1	0	1
