@@ -1,4 +1,4 @@
-.vs/*
-bin/*
-Migrations/*
-obj/*
+ProjectDB1/.vs/*
+ProjectDB1/bin/*
+ProjectDB1/Migrations/*
+ProjectDB1/obj/*
